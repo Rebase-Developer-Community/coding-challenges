@@ -12,6 +12,8 @@ There are multiple problems to learn from and will give you come to learn.
 - Raise a PR to the Main and Message on the [coding-challenge](https://discord.com/channels/958310102400643102/1048154769753124904)
 
 ---
+![image](https://user-images.githubusercontent.com/34570078/222136389-3c2610bd-d116-43f5-939d-1a09b8a8bf57.png)
+---
 
 ## First Start
 
