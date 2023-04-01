@@ -17,6 +17,8 @@ There are multiple problems to learn from and will give you come to learn.
 
 ## First Start
 
-  ### Array
+ * ### Array
   ---
-  - [The Two Sum](./array/twoSum/README.md) `Easy`
+  >  [The Two Sum](./array/twoSum/README.md) `Easy`
+
+  >  [Remove Duplicates from Sorted Array](./array/removeDuplicates/READEME.md) `Easy`
