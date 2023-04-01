@@ -4,16 +4,14 @@
  */
 
 const removeDuplicate = function (nums) {
-  let i =0;
-  while (i< nums.length - 1) {
-    let j = i+1;
-    if (nums[i]===nums[j]) {
-      nums.splice(j,1);
-    }else {
-      i++;
+  let insertIndex = 1;
+    for (let i = 1; i < nums.length; i++) {
+      if (nums[i -1] != nums[i]) {
+          nums[insertIndex] = nums[i]
+          insertIndex++;
+      }
     }
-  }
-  return nums.length;
+  return insertIndex
 };
 
 
