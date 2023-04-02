@@ -1,0 +1,14 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "Array Test cases ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
