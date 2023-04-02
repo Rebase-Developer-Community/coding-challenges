@@ -22,3 +22,5 @@ There are multiple problems to learn from and will give you come to learn.
   >  [The Two Sum](./array/twoSum/README.md) `Easy`
 
   >  [Remove Duplicates from Sorted Array](./array/removeDuplicates/READEME.md) `Easy`
+
+  > [Remove Element](./array/removeElement/README.md) `Easy`
