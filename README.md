@@ -25,3 +25,8 @@ There are multiple problems to learn from and will give you come to learn.
 
   > [Remove Element](./array/removeElement/README.md) `Easy`
 
+  > [Search Insert](./array/searchInsert/README.md) `Easy`
+
+  > [Plus One](./array/plusOne/README.MD) `Easy`
+
+
