@@ -19,6 +19,8 @@ There are multiple problems to learn from and will give you come to learn.
 
  * ### Array
   ---
+
+
   >  [The Two Sum](./array/twoSum/README.md) `Easy`
 
   >  [Remove Duplicates from Sorted Array](./array/removeDuplicates/READEME.md) `Easy`
@@ -30,5 +32,9 @@ There are multiple problems to learn from and will give you come to learn.
   > [Plus One](./array/plusOne/README.MD) `Easy`
 
   > [Merge Sorted Array](./array/mergeSortedArray/README.md) `Easy`
+
+  > [Conver Sorted Array To BST](./array/convertSortedArray/README.md) `Easy`
+
+  > [Pascal's Triangle](./array/pascalTriangleI/README.md) `Easy`
 
 
