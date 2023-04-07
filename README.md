@@ -29,4 +29,6 @@ There are multiple problems to learn from and will give you come to learn.
 
   > [Plus One](./array/plusOne/README.MD) `Easy`
 
+  > [Merge Sorted Array](./array/mergeSortedArray/README.md) `Easy`
+
 
