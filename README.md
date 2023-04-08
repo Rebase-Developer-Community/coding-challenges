@@ -20,7 +20,6 @@ There are multiple problems to learn from and will give you come to learn.
  * ### Array
   ---
 
-
   >  [The Two Sum](./array/twoSum/README.md) `Easy`
 
   >  [Remove Duplicates from Sorted Array](./array/removeDuplicates/READEME.md) `Easy`
@@ -37,4 +36,5 @@ There are multiple problems to learn from and will give you come to learn.
 
   > [Pascal's Triangle](./array/pascalTriangleI/README.md) `Easy`
 
+  > [Best Time To Buy and Sell Stock](./array/bestBuyAndSellStock/README.md) `Easy`
 
