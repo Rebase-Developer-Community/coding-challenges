@@ -38,3 +38,4 @@ There are multiple problems to learn from and will give you come to learn.
 
   > [Best Time To Buy and Sell Stock](./array/bestBuyAndSellStock/README.md) `Easy`
 
+  > [Majority Element](./array/majorityElement/README.md) `Easy`
