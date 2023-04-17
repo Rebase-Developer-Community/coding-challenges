@@ -42,8 +42,8 @@ There are multiple problems to learn from and will give you come to learn.
 
   > [Single Number](./array/singleNumber/README.md) `Easy`
 
+  > [Missing Number](./array/missingNumber/README.md) `Easy`
 
-
-
+  > [Contains Duplicate II](./array/containsDuplicate/README.md) `Easy`
 
   > [Missing Number](./array/missingNumber/README.md) `Easy`
