@@ -47,3 +47,5 @@ There are multiple problems to learn from and will give you come to learn.
   > [Contains Duplicate II](./array/containsDuplicate/README.md) `Easy`
 
   > [Move Zeroes](./array/moveZeroes/README.md) `Easy`
+
+  > [Range Sum Query Immutable](./array/rangeSumQuery/README.md) `Easy`
