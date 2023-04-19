@@ -49,3 +49,5 @@ There are multiple problems to learn from and will give you come to learn.
   > [Move Zeroes](./array/moveZeroes/README.md) `Easy`
 
   > [Range Sum Query Immutable](./array/rangeSumQuery/README.md) `Easy`
+
+  > [Intersaction of Two Arrays](./array/intersectionTwoArrays/README.md) `Easy`
