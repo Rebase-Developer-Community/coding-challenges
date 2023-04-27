@@ -51,3 +51,7 @@ There are multiple problems to learn from and will give you come to learn.
   > [Range Sum Query Immutable](./array/rangeSumQuery/README.md) `Easy`
 
   > [Intersaction of Two Arrays](./array/intersectionTwoArrays/README.md) `Easy`
+
+  > [Find All Numbers Disappered](./array/findAllNumbersDisappeared//README.md) `Easy`
+
+  > [Third Max Number](./array/thirdMaxNumber/README.md) `Easy`
