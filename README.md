@@ -55,3 +55,5 @@ There are multiple problems to learn from and will give you come to learn.
   > [Find All Numbers Disappered](./array/findAllNumbersDisappeared//README.md) `Easy`
 
   > [Third Max Number](./array/thirdMaxNumber/README.md) `Easy`
+
+  > [Add String](./array/addStrings/README.md) `Easy`
