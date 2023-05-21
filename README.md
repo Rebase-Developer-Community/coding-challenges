@@ -57,3 +57,14 @@ There are multiple problems to learn from and will give you come to learn.
   > [Third Max Number](./array/thirdMaxNumber/README.md) `Easy`
 
   > [Add String](./array/addStrings/README.md) `Easy`
+
+  > [Island Perimeter](./array/islandPerimeter/README.md) `Easy`
+
+
+
+---
+## Thanks to all contributors ❤
+
+ <a href="https://github.com/Rebase-Developer-Community/coding-challenges/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rebase-Developer-Community/coding-challenges" />
+</a>
